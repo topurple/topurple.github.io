@@ -882,7 +882,7 @@ article a {
 
 article a:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #CCCCFF;
     text-decoration: underline;
 }
 
@@ -1065,7 +1065,7 @@ article .article-tags .chip {
     border-radius: 15px;
     margin-right: 5px;
     margin-bottom: 2px;
-    color: #42b983;
+    color: #CCCCFF;
     background: #fff;
     border: 1px solid;
     transition: all 0.6s ease-in-out;
@@ -1073,17 +1073,17 @@ article .article-tags .chip {
 
 #artDetail .tag_share .article-tag .chip:hover {
     color: #fff;
-    background: #42b983;
+    background: #CA8EFF;
 }
 
 #artDetail .post-cate {
     float: right;
-    color: #42b983;
+    color: #CCCCFF;
 }
 
 #artDetail .post-cate a {
     padding-right: 5px;
-    color: #42b983;
+    color: #CCCCFF;
     font-weight: 500;
 }
 
@@ -1102,7 +1102,7 @@ article .article-tags .chip {
 
 #artDetail .post-info .post-category:hover {
     font-weight: bold;
-    color: #42b983;
+    color: #CCCCFF;
     text-decoration: underline;
 }
 
@@ -1162,7 +1162,7 @@ article .article-tags .chip {
 
 #artDetail .reprint a {
     font-size: 1.05rem;
-    color: #42b983;
+    color: #CCCCFF;
     font-weight: 500;
 }
 
@@ -1178,7 +1178,7 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #CCCCFF;
     font-weight: 500;
     text-decoration: underline;
     word-wrap: break-word;
@@ -1316,7 +1316,7 @@ thead {
 }
 
 .chip-default .tag-length {
-    color: #e91e63;
+    color: #CA8EFF;
     margin-top: 1px;
 }
 
@@ -1331,7 +1331,7 @@ thead {
     height: 80px;
     margin: 10px 0 50px -20px;
     padding: 21px 10px;
-    background-color: #ff5722;
+    background-color: #9999FF;
     color: #fff;
     font-size: 1.8rem;
     font-weight: 600;
@@ -1347,7 +1347,7 @@ thead {
     height: 60px;
     margin: 10px 0 30px -10px;
     padding: 14px 16px;
-    background-color: #ef6c00;
+    background-color: #FFB7DD;
     color: #fff;
     font-size: 1.7rem;
     font-weight: 600;
@@ -1360,7 +1360,7 @@ thead {
 #cd-timeline .day {
     position: relative;
     padding: 8px 10px;
-    background-color: #ffa726;
+    background-color: #77DDFF;
     color: #fff;
     font-size: 1.2rem;
     font-weight: 500;
@@ -1545,7 +1545,7 @@ thead {
         top: 24px;
         left: auto;
         right: 100%;
-        border-color: #ffa726;
+        border-color: #77DDFF;
     }
 
     .cd-timeline-block:nth-child(even) .cd-timeline-content .cd-read-more {
@@ -1597,7 +1597,7 @@ thead {
 }
 
 .post-statis .statis .count a {
-    color: #42b983;
+    color: #AAAAAA;
 }
 
 .post-statis .statis .name {
@@ -1862,7 +1862,7 @@ footer .copy-right {
 
 .search-result-list .search-result-title {
     font-size: 1.4rem;
-    color: #42b983;
+    color: #CCBBFF;
 }
 
 .search-result-list li {
@@ -1875,7 +1875,7 @@ footer .copy-right {
     padding: 1px 5px 1px 4px;
     border-radius: 2px;
     background-color: #f2f2f2;
-    color: #e96900;
+    color: #CA8EFF;
     font-style: normal;
     white-space: pre-wrap;
 }
