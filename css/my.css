@@ -56,3 +56,19 @@
         transform: translate(0, 0.5px) rotate(1.5deg);
     }
 }
+
+*{
+    cursor: url("/medias/cursor1.ico"),auto!important;
+}
+:active{
+    cursor: url("/medias/cursor2.ico"),auto!important;
+}
+
+@font-face{
+    font-family: 'Gen-JyuuGothic-Monospace-ExtraLight-2';
+    src: url('../font/Gen-JyuuGothic-Monospace-ExtraLight-2.ttf');
+}
+
+body{
+    font-family: 'Gen-JyuuGothic-Monospace-ExtraLight-2';
+}
